@@ -284,6 +284,12 @@ open htmlcov/index.html
 - [ ] Exportación a Google Looker Studio
 
 ---
+## Despliegue 
+
+
+https://gemini.google.com/share/cdbd33a449cb
+
+<img width="937" height="340" alt="image" src="https://github.com/user-attachments/assets/e27d1e18-c7fc-4315-8778-b54c505690d5" />
 
 ## 👤 Autor
 
